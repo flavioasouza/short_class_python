@@ -10,6 +10,7 @@ programa deve imprimir a mensagem “O novo valor é [valor]”.
 a. Idade: entre 0 e 150;
 b. Salário: maior que 0;
 c. Sexo: M, F ou Outro;
+
 O programa deve imprimir uma mensagem de erro para cada informação
 inválida.
 
@@ -21,6 +22,7 @@ b. Já trabalhou com a vítima?
 c. Telefonou para a vítima?
 d. Esteve no local do crime?
 e. Devia para a vítima?
+
 Cada resposta sim dá um ponto para o suspeito. A polícia considera que os
 suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e
 2 pontos são apenas suspeitos, necessitando outras investigações. Valores
